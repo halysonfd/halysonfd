@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Descubra a Europa</title>
+</head>
+<body>
+
+    <header>
+        <h1>Descubra a Europa: Destinos Turísticos Inesquecíveis</h1>
+    </header>
+
+    <section class="destination" id="paris">
+        <div class="card">
+            <img src="paris.jpg" alt="Paris">
+            <h2>Paris, França</h2>
+            <p>Conhecida como "A Cidade Luz", Paris é um destino romântico e cultural por excelência...</p>
+        </div>
+    </section>
+
+    <section class="destination" id="roma">
+        <div class="card">
+            <img src="roma.jpg" alt="Roma">
+            <h2>Roma, Itália</h2>
+            <p>A eterna cidade de Roma é um verdadeiro museu a céu aberto. O Coliseu, o Fórum Romano e o Vaticano são testemunhas da grandiosidade...</p>
+        </div>
+    </section>
+
+    <section class="destination" id="barcelona">
+        <div class="card">
+            <img src="barcelona.jpg" alt="Barcelona">
+            <h2>Barcelona, Espanha</h2>
+            <p>Barcelona combina a arquitetura única de Gaudí com praias ensolaradas e uma vida noturna vibrante...</p>
+        </div>
+    </section>
+
+    <section class="destination" id="santorini">
+        <div class="card">
+            <img src="santorini.jpg" alt="Santorini">
+            <h2>Santorini, Grécia</h2>
+            <p>As icônicas casas brancas e cúpulas azuis à beira do Mar Egeu fazem de Santorini um paraíso fotográfico...</p>
+        </div>
+    </section>
+
+    <section class="destination" id="praga">
+        <div class="card">
+            <img src="praga.jpg" alt="Praga">
+            <h2>Praga, República Tcheca</h2>
+            <p>Praga, a "Cidade das Cem Torres", é uma joia arquitetônica da Europa Central...</p>
+        </div>
+    </section>
+
+    <section class="destination" id="oslo">
+        <div class="card">
+            <img src="oslo.jpg" alt="Oslo">
+            <h2>Oslo, Noruega</h2>
+            <p>Para quem busca paisagens naturais deslumbrantes, Oslo é o destino ideal. Explore os fiordes majestosos...</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Planeje sua jornada pela Europa e vivencie momentos inesquecíveis!</p>
+    </footer>
+
+</body>
+</html>
