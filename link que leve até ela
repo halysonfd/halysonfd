@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outros Pontos Turísticos - Recife Antigo</title>
+    <style>
+        /* Estilos ... */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Outros Pontos Turísticos - Recife Antigo</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Praça do Arsenal</h2>
+            <p>A Praça do Arsenal é um espaço histórico no Recife Antigo, conhecido por sua arquitetura preservada e pelas diversas opções de entretenimento, como bares e restaurantes.</p>
+            <figure>
+                <img src="praca_arsenal.jpg" alt="Foto da Praça do Arsenal">
+                <figcaption>Praça do Arsenal</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Ponte Buarque de Macedo</h2>
+            <p>A Ponte Buarque de Macedo é uma das pontes mais antigas do Recife, conectando o Recife Antigo à Ilha de Antônio Vaz. Oferece uma vista deslumbrante do Rio Capibaribe.</p>
+            <figure>
+                <img src="ponte_buarque.jpg" alt="Foto da Ponte Buarque de Macedo">
+                <figcaption>Ponte Buarque de Macedo</figcaption>
+            </figure>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Outros Pontos Turísticos - Recife Antigo. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
