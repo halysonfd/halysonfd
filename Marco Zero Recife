@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Marco Zero - Recife</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre o Marco Zero</h2>
+            <p>O Marco Zero é um dos pontos turísticos mais emblemáticos da cidade do Recife, localizado no bairro do Recife Antigo. Ele marca o início das contagens das distâncias das rodovias federais que cortam o estado de Pernambuco.</p>
+        </section>
+
+        <section>
+            <h2>Imagens</h2>
+            <figure>
+                <img src="marco_zero.jpg" alt="Foto do Marco Zero">
+                <figcaption>Vista panorâmica do Marco Zero</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Localização</h2>
+            <p>O Marco Zero está situado às margens do Rio Capibaribe, proporcionando uma bela vista para o rio. É um local de grande importância histórica e cultural, sendo palco de diversos eventos e festivais ao longo do ano.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Halyson - Recife. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
