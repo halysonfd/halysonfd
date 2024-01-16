@@ -1,0 +1,10 @@
+//Usando o laço for
+for numero in range(20, 0, -1):
+    if numero != 13:
+        print(numero)
+// Usando o laço while
+numero = 20
+while numero >= 1:
+    if numero != 13:
+        print(numero)
+    numero -= 1
